@@ -1,0 +1,1 @@
+using infotech as service from '../../srv/sat';
